@@ -15,6 +15,8 @@ public class Hello {
         System.out.print("Where do you live? ");
         city = scn.next();
         System.out.println("Wow! I've always wanted to go to " + city + ". " + "Thanks for chatting with me. Bye!");
+        
+        // testing - lab 6
 
 
     }
