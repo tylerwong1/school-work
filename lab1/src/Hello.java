@@ -16,7 +16,8 @@ public class Hello {
         city = scn.next();
         System.out.println("Wow! I've always wanted to go to " + city + ". " + "Thanks for chatting with me. Bye!");
         
-        // testing - lab 6
+        // git hub test 
+	// testing for lab 6
 
 
     }
