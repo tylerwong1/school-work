@@ -1,11 +1,3 @@
-/**
- * Tyler Wong
- * COP3502
- * Lab 3
- *
- * The purpose of this lab is to create a scientific calculator
- * that will allow the user to input two operands and perform a calculation.
- */
 import java.util.Scanner;
 public class SciCalculator {
     public static void main(String[] args) {
