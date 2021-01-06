@@ -1,13 +1,3 @@
-/**
- * Tyler Wong
- * Project 1
- * COP3502
- *
- * This program will imitate a Blackjack game by giving the user a random card
- * and having them either draw a new card or hold their hand. The program uses while-loops
- * and switch statements to create a menu-driven interface.
- *
- */
 import java.util.Scanner;
 public class Blackjack {
     public static void main(String[] args) {
