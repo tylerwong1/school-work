@@ -1,12 +1,3 @@
-/*
-    Tyler Wong
-    Calculator.java
-    September 15, 2020
-    COP350
-
-    This program is designed to mimic a four function calculator
-    by prompting the user to input two numbers and then offering four different operations.
- */
 import java.util.Scanner;
 
 public class Calculator {
@@ -58,16 +49,5 @@ public class Calculator {
                 break;
 
         }
-
-
-
-
-
-
-
-
-
-
-
     }
 }
