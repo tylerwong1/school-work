@@ -1,13 +1,3 @@
-/**
- * Tyler Wong
- * COP3502
- * Lab 4
- *
- * The purpose of this lab is to convert a user's string into hexadecimal and binary using a
- * variety of methods.
- *
- *
- */
 import java.util.Scanner;
 public class NumericConversion {
     public static long hexStringDecode(String hex) {
